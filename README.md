@@ -1,2 +1,2 @@
 # Team-Awake-Checker
-App to check if teammates are awake and able to 
+App to check if teammates are awake and able to attend.
